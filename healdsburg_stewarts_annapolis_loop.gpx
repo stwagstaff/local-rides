@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1">
+	<metadata>
+		<link href="https://www.garmin.com">
+			<text>Garmin Tread App™</text>
+		</link>
+		<time>1970-01-01T00:00:00</time>
+	</metadata>
+	<rte>
+		<name>Aug 2, 2025 - Healdsburg, Stewart's Point, Annapolis Loop</name>
+		<rtept lat="38.374720606952906" lon="-122.80878913588822">
+			<name>Apr 18, 2025 2:23 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.426278866827488" lon="-122.83211798407137">
+			<name>Jun 13, 2025 12:03 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.49002106115222" lon="-122.89014774374664">
+			<name>Feb 9, 2025 12:34 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.490863777697086" lon="-122.88363181985915">
+			<name>Feb 9, 2025 12:34 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.508010553196073" lon="-122.88649817928672">
+			<name>Feb 9, 2025 12:34 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.605893831700087" lon="-122.87629539147019">
+			<name>Feb 9, 2025 12:34 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.6102051474154" lon="-122.87050584331155">
+			<name>Feb 9, 2025 12:34 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.719983268529177" lon="-122.9987246543169">
+			<name>Jun 13, 2025 12:03 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.652171492576599" lon="-123.39935867115855">
+			<name>Jun 13, 2025 12:03 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.695397302508354" lon="-123.43156320042908">
+			<name>Highway 1</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.722888100892305" lon="-123.37364366278052">
+			<name>Annapolis</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.665264947339892" lon="-123.3189358189702">
+			<name>Jun 13, 2025 12:03 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.720288537442684" lon="-122.99735915847123">
+			<name>Jun 13, 2025 12:03 pm</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.432605862617493" lon="-122.71780734881759">
+			<name>July 22,2025,to Metcalf</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.402306120842695" lon="-122.82221954315901">
+			<name>July 22,2025,to Metcalf</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="38.374723792076111" lon="-122.80878804624081">
+			<name>Apr 18, 2025 2:23 pm</name>
+			<extensions />
+		</rtept>
+	</rte>
+</gpx>
